@@ -1,6 +1,7 @@
 # react-docker
 
-Utiliser docker avec un projet react
+Pour utiliser docker avec un projet react copier les fichiers de ce repository à la ractine de votre projet react
+
 
 ## Image docker local
 Le fichier `/dev/DockerFile` est utilisé pour générer l'image Docker en local.
